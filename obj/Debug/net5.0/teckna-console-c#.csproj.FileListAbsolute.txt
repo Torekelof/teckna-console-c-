@@ -1,0 +1,16 @@
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\bin\Debug\net5.0\teckna-console-c#.exe
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\bin\Debug\net5.0\teckna-console-c#.deps.json
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\bin\Debug\net5.0\teckna-console-c#.runtimeconfig.json
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\bin\Debug\net5.0\teckna-console-c#.runtimeconfig.dev.json
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\bin\Debug\net5.0\teckna-console-c#.dll
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\bin\Debug\net5.0\ref\teckna-console-c#.dll
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\bin\Debug\net5.0\teckna-console-c#.pdb
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.csproj.AssemblyReference.cache
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.AssemblyInfoInputs.cache
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.AssemblyInfo.cs
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.csproj.CoreCompileInputs.cache
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.dll
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\ref\teckna-console-c#.dll
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.pdb
+C:\Users\ekelof.tor\Documents\programering\teckna-console-c#\obj\Debug\net5.0\teckna-console-c#.genruntimeconfig.cache
